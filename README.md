@@ -3,7 +3,7 @@
 
 ## Description du Projet
 
-Ce projet implémente un modèle basique de prédiction du prix des actions basé sur l'architecture Long Short-Term Memory (LSTM), un type de réseau de neurones récurrents (RNN) particulièrement efficace pour les données séquentielles comme les séries temporelles financières. Le modèle est développé en utilisant la bibliothèque PyTorch et est capable de prédire le prix de clôture futur d'une action à partir de ses prix passés.
+Ce projet implémente un modèle de régression en Machine Learning pour la prédiction du prix des actions basé sur l'architecture Long Short-Term Memory (LSTM), un type de réseau de neurones récurrents (RNN) particulièrement efficace pour les données séquentielles comme les séries temporelles financières. Le modèle est développé en utilisant la bibliothèque PyTorch et est capable de prédire le prix de clôture futur d'une action à partir de ses prix passés.
 
 
 ## Technologies Utilisées
