@@ -18,11 +18,7 @@ Ce projet implémente un modèle de régression en Machine Learning pour la pré
 
 ## Configuration et Installation
 
-1.  **Cloner le dépôt GitHub (si applicable) :**
-    ```bash
-    git clone https://github.com/votre_utilisateur/votre_projet.git
-    cd votre_projet
-    ```
+1.  **Télécharger le ipynb**
 
 2.  **Installer les dépendances :**
     ```bash
