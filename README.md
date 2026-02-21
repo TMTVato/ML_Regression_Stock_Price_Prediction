@@ -1,4 +1,5 @@
 # Prédiction du Prix des Actions avec LSTM (PyTorch)
+<img width="684" height="564" alt="Capture d&#39;écran 2026-02-21 192715" src="https://github.com/user-attachments/assets/3b216ab9-31c1-4bb4-b472-98bde4de2366" />
 
 ## Description du Projet
 
